@@ -15,7 +15,7 @@
 - Engineering
 - Project
 - AskQuestion
-- [Programming 面试编程问题](./programming/index.md)
+- [Coding](./programming/index.md)
 - [源码阅读](./codes/index.md)
 
 ### 详细目录
@@ -72,11 +72,6 @@
 - https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet
 - https://item.jd.com/12985664.html
 - https://github.com/mqyqingfeng/Blog
-<<<<<<< Updated upstream
 - https://www.yuque.com/docs/share/1b795dd4-e1f2-4922-b205-7bb0c758103c?#
-=======
-
-## 需要整理的文章
-
-1. https://juejin.cn/post/6956360277185003556
->>>>>>> Stashed changes
+- https://github.com/6fedcom/fe-blog
+- https://juejin.cn/post/6956360277185003556
